@@ -26,4 +26,5 @@ C++ Summary, 도서 관리 프로그램
 도전 기능 구현까지 완료한 후 전체적인 구조를 그리면 아래와 같습니다.
 
 어디까지나 참조일 뿐 꼭 이대로 구현할 필요는 없습니다.
+
 ![image](https://github.com/user-attachments/assets/15510c16-74e7-4c88-bc1c-ebf65b385319)
